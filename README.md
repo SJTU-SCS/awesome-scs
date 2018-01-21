@@ -2,7 +2,7 @@
 上海交通大学网安学院本科编程作业参考
 
 
-## 资源清单 
+## 资源清单
 
 ### 目录
 
@@ -45,10 +45,18 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 ### Computer Communication and Network
 > IS301 计算机通信网络
 
+#### sniffer
+
 * [2017-antisomus_sniffer](https://github.com/AntiSomnus/sniffer)
 * [2017-wsniffer](https://github.com/waderwu/wsniffer)
 * [2017-RAGNAROSaa_sniffer](https://github.com/RAGNAROSaa/Sniffer)
 * [2017-JKSniffer](https://github.com/wangjksjtu/JKSniffer)
+* [2017-jspcap](https://github.com/JarryShaw/jspcap)
+* [2017-PurePySniffer](https://github.com/phyank/PurePySniffer)
+* [2017-SimpleSniffer](https://github.com/zqzqz/SimpleSniffer)
+
+#### packet sneder
+* [2016-Trafficker](https://github.com/LyleMi/Trafficker)
 
 ### Operating System
 > IS206 - 操作系统
