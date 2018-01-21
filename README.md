@@ -34,6 +34,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [2016-大学生拼拼平台](https://github.com/jeklen/PingPing)
 * [2016-易书网](https://github.com/shenqili/Yishuwang)
 * [2016-SuperAlarm](https://github.com/wangjksjtu/SuperAlarm)
+* [2016-师生线上答疑交流系统](https://github.com/RAGNAROSaa/Q-A-online)
 
 ### Computer Organization and Architecture
 > IS224 - 计算机组成与系统结构
@@ -46,6 +47,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 
 * [2017-antisomus_sniffer](https://github.com/AntiSomnus/sniffer)
 * [2017-wsniffer](https://github.com/waderwu/wsniffer)
+* [2017-RAGNAROSaa_sniffer](https://github.com/RAGNAROSaa/Sniffer)
 * [2017-JKSniffer](https://github.com/wangjksjtu/JKSniffer)
 
 ### Operating System
