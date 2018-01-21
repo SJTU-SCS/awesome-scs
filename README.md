@@ -55,7 +55,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [2017-PurePySniffer](https://github.com/phyank/PurePySniffer)
 * [2017-SimpleSniffer](https://github.com/zqzqz/SimpleSniffer)
 
-#### packet sneder
+#### packet sender
 * [2016-Trafficker](https://github.com/LyleMi/Trafficker)
 
 ### Operating System
