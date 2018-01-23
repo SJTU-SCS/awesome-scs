@@ -11,9 +11,12 @@
 * [Software Engineering](#software-engineering)
 * [Computer Organization and Architecture](#computer-organization-and-architecture)
 * [Compiler Principles](#compiler-principles)
+* [Digital System Design](#digital-system-design)
 * [Computer Communication and Network](#computer-communication-and-network)
-* [Principles of Computer Virus](#principles-of-computer-virus)
 ___
+
+<!--* [Operating System](#operating-system)->
+<!--* [Principles of Computer Virus](#principles-of-computer-virus)->
 
 ### 项目介绍
 
@@ -47,9 +50,16 @@ __PS__：这里列出**完成较好**,**文档较详细**的项目，由于使�
 
 ### Computer Organization and Architecture
 > IS224 - 计算机组成与系统结构
+* [2017-Assembly](https://github.com/wangjksjtu/IS-Assignments/tree/master/IS224)
 
 ### Compiler Principles
 > IS203 - 编译原理
+* [2017-Lexer](https://github.com/wangjksjtu/IS-Assignments/tree/master/IS203)
+
+
+### Digital System Design
+> IS208 - 数字系统设计
+* [2017-FinalLab](https://github.com/wangjksjtu/IS-Assignments/tree/master/IS208)
 
 ### Computer Communication and Network
 > IS301 计算机通信网络
@@ -67,8 +77,11 @@ __PS__：这里列出**完成较好**,**文档较详细**的项目，由于使�
 #### packet sender
 * [2016-Trafficker](https://github.com/LyleMi/Trafficker)
 
+<!--
 ### Operating System
 > IS206 - 操作系统
-
+-->
+<!--
 ### Principles of Computer Virus
 > IS217 - 计算机病毒原理
+->
