@@ -35,6 +35,15 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [2016-易书网](https://github.com/shenqili/Yishuwang)
 * [2016-SuperAlarm](https://github.com/wangjksjtu/SuperAlarm)
 * [2016-师生线上答疑交流系统](https://github.com/RAGNAROSaa/Q-A-online)
+* [2017-图书馆预约占座系统](https://github.com/SE407-2017/FinalProject-library-seats-reservation)
+* [2017-校园信息平台](https://github.com/SE407-2017/campus-information-platform/)
+* [2017-学生工作平台](https://github.com/SE407-2017/StudentJobManagement)
+* [2017-站队投票网](https://github.com/SE407-2017/Taking-Sides)
+
+__PS__：这里列出**完成较好**,**文档较详细**的项目，由于使用django框架开发网页的项目较多，__不一一列出__。
+
+1. 2017软工项目清单（16级）: [2017](https://github.com/SE407-2017)
+2. 2016软工项目清单（15级）: [2016](https://github.com/mayinghua/SJTU_SoftwareEngineering/issues/36)
 
 ### Computer Organization and Architecture
 > IS224 - 计算机组成与系统结构
