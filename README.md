@@ -15,8 +15,8 @@
 * [Computer Communication and Network](#computer-communication-and-network)
 ___
 
-<!--* [Operating System](#operating-system)->
-<!--* [Principles of Computer Virus](#principles-of-computer-virus)->
+<!--* [Operating System](#operating-system) -->
+<!--* [Principles of Computer Virus](#principles-of-computer-virus) -->
 
 ### 项目介绍
 
