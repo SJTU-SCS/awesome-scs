@@ -42,8 +42,9 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 * [2017-校园信息平台](https://github.com/SE407-2017/campus-information-platform/)
 * [2017-学生工作平台](https://github.com/SE407-2017/StudentJobManagement)
 * [2017-站队投票网](https://github.com/SE407-2017/Taking-Sides)
+* [2017-中国象棋](https://github.com/JiNianLuo/chessboard_Chinese-chess)
 
-__PS__：这里列出**完成较好**,**文档较详细**的项目，由于使用django框架开发网页的项目较多，__不一一列出__。
+__PS__：这里列出**完成较好**，**文档较详细**的项目，由于使用 django 框架开发网页的项目较多，__不一一列出__。
 
 1. 2017软工项目清单（16级）: [2017](https://github.com/SE407-2017)
 2. 2016软工项目清单（15级）: [2016](https://github.com/mayinghua/SJTU_SoftwareEngineering/issues/36)
@@ -51,15 +52,18 @@ __PS__：这里列出**完成较好**,**文档较详细**的项目，由于使�
 ### Computer Organization and Architecture
 > IS224 - 计算机组成与系统结构
 * [2017-Assembly](https://github.com/wangjksjtu/IS-Assignments/tree/master/IS224)
+* [2017-8086](https://github.com/JarryShaw/8086)
 
 ### Compiler Principles
 > IS203 - 编译原理
 * [2017-Lexer](https://github.com/wangjksjtu/IS-Assignments/tree/master/IS203)
+* [2017-Compiler](https://github.com/JarryShaw/Compiler)
 
 
 ### Digital System Design
 > IS208 - 数字系统设计
 * [2017-FinalLab](https://github.com/wangjksjtu/IS-Assignments/tree/master/IS208)
+* [2017-Verilog](https://github.com/JarryShaw/Verilog)
 
 ### Computer Communication and Network
 > IS301 计算机通信网络
