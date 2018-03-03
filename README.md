@@ -77,6 +77,7 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目，由于使
 * [2017-jspcap](https://github.com/JarryShaw/jspcap)
 * [2017-PurePySniffer](https://github.com/phyank/PurePySniffer)
 * [2017-SimpleSniffer](https://github.com/zqzqz/SimpleSniffer)
+* [2017-WireSniffer](https://github.com/cpeggg/WireSniffer) (Written in C# on Windows platform)
 
 #### packet sender
 * [2016-Trafficker](https://github.com/LyleMi/Trafficker)
