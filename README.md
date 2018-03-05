@@ -53,17 +53,19 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目，由于使
 > IS224 - 计算机组成与系统结构
 * [2017-Assembly](https://github.com/wangjksjtu/IS-Assignments/tree/master/IS224)
 * [2017-8086](https://github.com/JarryShaw/8086)
+* [2017-emu8086](https://github.com/somecat1996/emu8086)
 
 ### Compiler Principles
 > IS203 - 编译原理
 * [2017-Lexer](https://github.com/wangjksjtu/IS-Assignments/tree/master/IS203)
 * [2017-Compiler](https://github.com/JarryShaw/Compiler)
-
+* [2017-LexicalAnalysis](https://github.com/somecat1996/LexicalAnalysis)
 
 ### Digital System Design
 > IS208 - 数字系统设计
 * [2017-FinalLab](https://github.com/wangjksjtu/IS-Assignments/tree/master/IS208)
 * [2017-Verilog](https://github.com/JarryShaw/Verilog)
+* [2017-HomeworkOfVerilog](https://github.com/somecat1996/HomeworkOfVerilog)
 
 ### Computer Communication and Network
 > IS301 计算机通信网络
@@ -75,6 +77,7 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目，由于使
 * [2017-RAGNAROSaa_sniffer](https://github.com/RAGNAROSaa/Sniffer)
 * [2017-JKSniffer](https://github.com/wangjksjtu/JKSniffer)
 * [2017-jspcap](https://github.com/JarryShaw/jspcap)
+* [2017-SniffCat](https://github.com/somecat1996/SniffCat)
 * [2017-PurePySniffer](https://github.com/phyank/PurePySniffer)
 * [2017-SimpleSniffer](https://github.com/zqzqz/SimpleSniffer)
 * [2017-WireSniffer](https://github.com/cpeggg/WireSniffer) (Written in C# on Windows platform)
