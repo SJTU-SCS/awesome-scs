@@ -27,8 +27,8 @@
 
 &emsp; &emsp; 这是一个收集上海交通大学信安学院同学课程编程作业的项目，收集的目的在于为后来的同学提供一些参考，以便快速入门，写出更棒的 codes。也希望你能够积极地提交自己的 Project 到这个项目中。如果想要成为 contributor 的话，
 
-&emsp; 1. 可以直接 Pull Requests
-&emsp; 2. 如果你是信安学院的同学，请联系 [@wangjksjtu(wangjksjtu@gmail.com)](https://github.com/wangjksjtu)，邀请你加入 [SJTU-SCS](https://github.com/SJTU-SCS) 中。
+1. 可以直接 Pull Requests
+2. 如果你是信安学院的同学，请联系 [@wangjksjtu(wangjksjtu@gmail.com)](https://github.com/wangjksjtu)，邀请你加入 [SJTU-SCS](https://github.com/SJTU-SCS) 中。
 
 PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做起
 
