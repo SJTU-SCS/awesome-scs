@@ -64,8 +64,8 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 
 __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使用 Django 框架开发网页的项目较多，__恕不一一列出__。
 
-&emsp; 1. [2016 软工项目清单（15级）](https://github.com/mayinghua/SJTU_SoftwareEngineering/issues/36)
-&emsp; 2. [2017 软工项目清单（16级）](https://github.com/SE407-2017)
+1. [2016 软工项目清单（15级）](https://github.com/mayinghua/SJTU_SoftwareEngineering/issues/36)
+2. [2017 软工项目清单（16级）](https://github.com/SE407-2017)
 
 &nbsp;
 
