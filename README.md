@@ -7,7 +7,6 @@
 ### 目录
 
 * [项目介绍](#项目介绍)
-
 * [Thinking and Approach of Programming](#cs902)
 * [Software Engineering](#se407)
 * [Mathematic Fundamentals of Information Security I](#is201)
@@ -26,16 +25,16 @@
 
 ### 项目介绍
 
-这是一个收集上海交通大学信安学院同学课程编程作业的项目，收集的目的在于为后来的同学提供一些参考，以便快速入门，写出更棒的code。也希望你能够积极地提交自己的 Project 到这个项目中。如果想要成为 contributor 的话，
+&emsp; &emsp; 这是一个收集上海交通大学信安学院同学课程编程作业的项目，收集的目的在于为后来的同学提供一些参考，以便快速入门，写出更棒的 codes。也希望你能够积极地提交自己的 Project 到这个项目中。如果想要成为 contributor 的话，
 
-1. 可以直接 Pull Requests
-2. 如果你是信安学院的同学，请联系 [@wangjksjtu(wangjksjtu@gmail.com)](https://github.com/wangjksjtu)，邀请你加入 [SJTU-SCS](https://github.com/SJTU-SCS) 中。
+&emsp; 1. 可以直接 Pull Requests
+&emsp; 2. 如果你是信安学院的同学，请联系 [@wangjksjtu(wangjksjtu@gmail.com)](https://github.com/wangjksjtu)，邀请你加入 [SJTU-SCS](https://github.com/SJTU-SCS) 中。
 
 PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做起
 
 **Notice: 希望大家可以积极贡献，相信一些代码可以帮你快速入门，杜绝copy，从我做起**
 
-以下是各种课程的列表，顺序按年级主序，名字字典序次序。
+> 以下是各种课程的列表，顺序按年级主序，名字字典序次序。
 
 &nbsp;
 
@@ -65,8 +64,8 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 
 __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使用 Django 框架开发网页的项目较多，__恕不一一列出__。
 
-1. [2016 软工项目清单（15级）](https://github.com/mayinghua/SJTU_SoftwareEngineering/issues/36)
-2. [2017 软工项目清单（16级）](https://github.com/SE407-2017)
+&emsp; 1. [2016 软工项目清单（15级）](https://github.com/mayinghua/SJTU_SoftwareEngineering/issues/36)
+&emsp; 2. [2017 软工项目清单（16级）](https://github.com/SE407-2017)
 
 &nbsp;
 
