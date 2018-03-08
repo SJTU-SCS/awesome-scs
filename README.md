@@ -43,7 +43,7 @@ PS: 学院课程检查可能设有 Anti-Cheat Check，远离 copycat，从我做
 ### Thinking and Approach of Programming
 > CS902 - 程序设计思想与方法
 
-* [2017-TreeViewer](https://github.com/JarryShaw/TreeViewer)
+* [2017 - TreeViewer](https://github.com/JarryShaw/TreeViewer)
 
 &nbsp;
 
