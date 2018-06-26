@@ -97,6 +97,7 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 * [2017 - Assembly](https://github.com/wangjksjtu/IS-Assignments/tree/master/IS224)
 * [2017 - emu8086](https://github.com/somecat1996/emu8086)
 * [2017 - 8086](https://github.com/JarryShaw/8086)
+* [2018 - COA](https://github.com/LuminousXLB/Homework_IS/tree/COA)
 
 &nbsp;
 
