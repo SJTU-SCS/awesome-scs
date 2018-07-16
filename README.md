@@ -15,12 +15,12 @@
 * [Compiler Principles](#is203)
 * [Digital System Design](#is208)
 * [Computer Communication and Network](#is301)
-
+* [Operating System](#is206)
+* [Principles and Applications of Embedded System](#is222)
+* [Course Design on Application Software](#is305)
+* [Data Mining](#is303)
 ---
 
-<!--* [Operating System](#operating-system) -->
-<!--* [Principles and Applications of Embedded System](#is222) -->
-<!--* [Course Design on Application Software](#is305) -->
 <!--* [Principles of Computer Virus](#is217) -->
 
 ### 项目介绍
@@ -97,6 +97,7 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 * [2017 - Assembly](https://github.com/wangjksjtu/IS-Assignments/tree/master/IS224)
 * [2017 - emu8086](https://github.com/somecat1996/emu8086)
 * [2017 - 8086](https://github.com/JarryShaw/8086)
+* [2018 - COA](https://github.com/LuminousXLB/Homework_IS/tree/COA)
 
 &nbsp;
 
@@ -142,32 +143,47 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 
 * [2016 - Trafficker](https://github.com/LyleMi/Trafficker)
 
-<!--
+
 &nbsp;
 
 <a name="is206"> </a>
 
 ### Operating System
 > IS206 - 操作系统
--->
 
-<!--
+* [2018 - ycq091044](https://github.com/ycq091044/Operating-System)
+* [2018 - wangjksjtu](https://github.com/wangjksjtu/IS-Assignments/tree/master/IS206)
+
+
 &nbsp;
 
 <a name="is222"> </a>
 
 ### Principles and Applications of Embedded System
 > IS222 - 嵌入式系统原理与应用
--->
 
-<!--
+* [2018 - DSSE-Notes](https://github.com/wangjksjtu/DSSE-Notes)
+
+
 &nbsp;
 
 <a name="is305"> </a>
 
 ### Course Design on Application Software
 > IS305 - 应用软件课程设计
--->
+
+* [2018 - Key-Vis](https://github.com/RickFreemanCui/KeyVis)
+
+
+&nbsp;
+
+<a name="is303"> </a>
+
+### Data Mining
+> IS303 - 数据挖掘
+
+* [2018 - Data-Mining-51Job](https://github.com/wangjksjtu/Data-Mining-51Job)
+
 
 <!--
 &nbsp;
