@@ -163,7 +163,7 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 > IS222 - 嵌入式系统原理与应用
 
 * [2018 - DSSE-Notes](https://github.com/wangjksjtu/DSSE-Notes)
-
+* [2018 - Emotional-Notebook](https://github.com/zqzqz/notebook)
 
 &nbsp;
 
@@ -173,7 +173,7 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 > IS305 - 应用软件课程设计
 
 * [2018 - Key-Vis](https://github.com/RickFreemanCui/KeyVis)
-
+* [2018 - Copyright-Chain-(ethereum app)](https://github.com/zqzqz/CR-chain)
 
 &nbsp;
 
