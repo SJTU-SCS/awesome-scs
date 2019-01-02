@@ -109,6 +109,7 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 * [2017 - Compiler](https://github.com/JarryShaw/Compiler)
 * [2017 - Lexer](https://github.com/wangjksjtu/IS-Assignments/tree/master/IS203)
 * [2017 - LexicalAnalysis](https://github.com/somecat1996/LexicalAnalysis)
+* [2018 - Lexer](https://github.com/LuminousXLB/Homework_IS/tree/cp)
 
 &nbsp;
 
@@ -120,6 +121,7 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 * [2017 - FinalLab](https://github.com/wangjksjtu/IS-Assignments/tree/master/IS208)
 * [2017 - HomeworkOfVerilog](https://github.com/somecat1996/HomeworkOfVerilog)
 * [2017 - Verilog](https://github.com/JarryShaw/Verilog)
+* [2018 - VerilogLab](https://github.com/LuminousXLB/Homework_IS/tree/dsd)
 
 &nbsp;
 
