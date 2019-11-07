@@ -155,7 +155,7 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 
 * [2018 - ycq091044](https://github.com/ycq091044/Operating-System)
 * [2018 - wangjksjtu](https://github.com/wangjksjtu/IS-Assignments/tree/master/IS206)
-
+* [2019 - LuminousXLB](https://github.com/LuminousXLB/Lab_OS)
 
 &nbsp;
 
@@ -187,11 +187,11 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 * [2018 - Data-Mining-51Job](https://github.com/wangjksjtu/Data-Mining-51Job)
 
 
-<!--
 &nbsp;
 
 <a name="is217"> </a>
 
 ### Principles of Computer Virus
 > IS217 - 计算机病毒原理
--->
+
+* [2019 - TaraRansomeware](https://github.com/LuminousXLB/TaraRansomeware)
