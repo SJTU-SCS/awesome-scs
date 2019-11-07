@@ -77,6 +77,7 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 * [2017 - Homeworks_IS](https://github.com/somecat1996/Homeworks_IS)
 * [2017 - jsntlib](https://github.com/JarryShaw/jsntlib/tree/master)
 * [2017 - python_NumTheory](https://github.com/wangjksjtu/python_NumTheory)
+*  [2018 -  Mathematical-Caculation-Tools ](https://github.com/KuroChan1998/Mathematical-Caculation-Tools) 
 
 &nbsp;
 
@@ -177,6 +178,7 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 
 * [2018 - Key-Vis](https://github.com/RickFreemanCui/KeyVis)
 * [2018 - Copyright-Chain-(ethereum app)](https://github.com/zqzqz/CR-chain)
+* [2019 - Student-Information-Administration-System](https://github.com/KuroChan1998/Student-Information-Administration-System)
 
 &nbsp;
 
