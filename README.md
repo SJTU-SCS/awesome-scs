@@ -141,6 +141,7 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 * [2017 - SniffCat](https://github.com/somecat1996/SniffCat)
 * [2017 - WireSniffer](https://github.com/cpeggg/WireSniffer) (Written in `C#` on Windows platform)
 * [2017 - wsniffer](https://github.com/waderwu/wsniffer)
+* [2018 - SnifferZ](https://github.com/QingruZhang/SnifferZ)
 
 #### Packet Sender
 
@@ -188,6 +189,7 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 > IS303 - 数据挖掘
 
 * [2018 - Data-Mining-51Job](https://github.com/wangjksjtu/Data-Mining-51Job)
+* [2019 - Data-Mining-LianJia](https://github.com/QingruZhang/Data-Mining-LianJia-HousePrice-Prediction-Project)
 
 
 &nbsp;
