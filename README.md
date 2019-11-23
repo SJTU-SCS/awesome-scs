@@ -13,6 +13,7 @@
 * [Electronics Lab.](#es003)
 * [Computer Organization and Architecture](#is224)
 * [Compiler Principles](#is203)
+* [Information Theory and Coding](#is205)
 * [Digital System Design](#is208)
 * [Computer Communication and Network](#is301)
 * [Operating System](#is206)
@@ -111,6 +112,15 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 * [2017 - Lexer](https://github.com/wangjksjtu/IS-Assignments/tree/master/IS203)
 * [2017 - LexicalAnalysis](https://github.com/somecat1996/LexicalAnalysis)
 * [2018 - Lexer](https://github.com/LuminousXLB/Homework_IS/tree/cp)
+
+&nbsp;
+
+<a name="is205"> </a>
+
+### Information Theory and Coding
+> IS205 - 信息论与编码
+
+* [2019 - Huffman Coding](https://github.com/pydxflwb/Huffman-Coding)
 
 &nbsp;
 
