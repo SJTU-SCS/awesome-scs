@@ -120,6 +120,7 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 ### Information Theory and Coding
 > IS205 - 信息论与编码
 
+* [2018 - ITC](https://github.com/dujiajun/ITC)
 * [2019 - Huffman Coding](https://github.com/pydxflwb/Huffman-Coding)
 
 &nbsp;
@@ -158,6 +159,9 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 * [2016 - Trafficker](https://github.com/LyleMi/Trafficker)
 * [2018 - iSender](https://github.com/Yuran-Zhao/iSender)
 
+#### Chat Room
+
+* [2018 - ChatRoom](https://github.com/dujiajun/ChatRoom)
 
 &nbsp;
 
@@ -179,6 +183,7 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 
 * [2018 - DSSE-Notes](https://github.com/wangjksjtu/DSSE-Notes)
 * [2018 - Emotional-Notebook](https://github.com/zqzqz/notebook)
+* [2019 - GravityMaze](https://github.com/dujiajun/GravityMaze)
 
 &nbsp;
 
@@ -190,7 +195,7 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 * [2018 - Key-Vis](https://github.com/RickFreemanCui/KeyVis)
 * [2018 - Copyright-Chain-(ethereum app)](https://github.com/zqzqz/CR-chain)
 * [2019 - Student-Information-Administration-System](https://github.com/KuroChan1998/Student-Information-Administration-System)
-
+* [2019 - CourseBlock](https://github.com/dujiajun/CourseBlock)
 &nbsp;
 
 <a name="is303"> </a>
