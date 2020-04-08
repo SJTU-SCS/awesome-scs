@@ -79,6 +79,7 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 * [2017 - jsntlib](https://github.com/JarryShaw/jsntlib/tree/master)
 * [2017 - python_NumTheory](https://github.com/wangjksjtu/python_NumTheory)
 *  [2018 -  Mathematical-Caculation-Tools ](https://github.com/KuroChan1998/Mathematical-Caculation-Tools) 
+* [2019 - MathFoundationSJTU](https://github.com/YangLeiSX/MathFoundationSJTU)
 
 &nbsp;
 
@@ -122,6 +123,7 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 
 * [2018 - ITC](https://github.com/dujiajun/ITC)
 * [2019 - Huffman Coding](https://github.com/pydxflwb/Huffman-Coding)
+* [2019 - ArithCodingSJTU](https://github.com/YangLeiSX/ArithCodingSJTU)
 
 &nbsp;
 
@@ -134,6 +136,7 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 * [2017 - HomeworkOfVerilog](https://github.com/somecat1996/HomeworkOfVerilog)
 * [2017 - Verilog](https://github.com/JarryShaw/Verilog)
 * [2018 - VerilogLab](https://github.com/LuminousXLB/Homework_IS/tree/dsd)
+* [2019 - DigidalSystemDesignSJTU](https://github.com/YangLeiSX/DigitalSystemDesignSJTU)
 
 &nbsp;
 
@@ -153,6 +156,7 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 * [2017 - WireSniffer](https://github.com/cpeggg/WireSniffer) (Written in `C#` on Windows platform)
 * [2017 - wsniffer](https://github.com/waderwu/wsniffer)
 * [2018 - SnifferZ](https://github.com/QingruZhang/SnifferZ)
+* [2019 - ComputerNetworkSJTU](https://github.com/YangLeiSX/ComputerNetworkSJTU)
 
 #### Packet Sender
 
@@ -196,6 +200,8 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 * [2018 - Copyright-Chain-(ethereum app)](https://github.com/zqzqz/CR-chain)
 * [2019 - Student-Information-Administration-System](https://github.com/KuroChan1998/Student-Information-Administration-System)
 * [2019 - CourseBlock](https://github.com/dujiajun/CourseBlock)
+* [2020 - CanvasUpdater](https://github.com/YangLeiSX/CanvasUpdater)
+
 &nbsp;
 
 <a name="is303"> </a>
