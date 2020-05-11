@@ -20,6 +20,7 @@
 * [Principles and Applications of Embedded System](#is222)
 * [Course Design on Application Software](#is305)
 * [Data Mining](#is303)
+* [Data Communication](#is404)
 ---
 
 <!--* [Principles of Computer Virus](#is217) -->
@@ -212,6 +213,14 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 * [2018 - Data-Mining-51Job](https://github.com/wangjksjtu/Data-Mining-51Job)
 * [2019 - Data-Mining-LianJia](https://github.com/QingruZhang/Data-Mining-LianJia-HousePrice-Prediction-Project)
 
+&nbsp;
+
+<a name="is404"> </a>
+
+### Data Communication
+> IS404 - 数据通信
+
+* [2020 - DataComSJTU](https://github.com/YangLeiSX/DataComSJTU)
 
 &nbsp;
 
