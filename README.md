@@ -125,6 +125,7 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 * [2018 - ITC](https://github.com/dujiajun/ITC)
 * [2019 - Huffman Coding](https://github.com/pydxflwb/Huffman-Coding)
 * [2019 - ArithCodingSJTU](https://github.com/YangLeiSX/ArithCodingSJTU)
+* [2018 - HuffmanFileCompression ](https://github.com/LeafCCC/HuffmanFileCompression)
 
 &nbsp;
 
