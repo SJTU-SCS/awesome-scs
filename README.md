@@ -205,6 +205,7 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 * [2019 - Student-Information-Administration-System](https://github.com/KuroChan1998/Student-Information-Administration-System)
 * [2019 - CourseBlock](https://github.com/dujiajun/CourseBlock)
 * [2020 - CanvasUpdater](https://github.com/YangLeiSX/CanvasUpdater)
+* [2021 - Anime-Coloring-Tool](https://github.com/yangco-le/Colorization_Tool_on_Web)
 
 &nbsp;
 
