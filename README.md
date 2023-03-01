@@ -193,6 +193,7 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 * [2018 - DSSE-Notes](https://github.com/wangjksjtu/DSSE-Notes)
 * [2018 - Emotional-Notebook](https://github.com/zqzqz/notebook)
 * [2019 - GravityMaze](https://github.com/dujiajun/GravityMaze)
+* [2022 - Exploratory maze](https://github.com/FengweiZhang/IS222-Project-Maze)
 
 &nbsp;
 
@@ -208,6 +209,7 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 * [2020 - CanvasUpdater](https://github.com/YangLeiSX/CanvasUpdater)
 * [2021 - Anime-Coloring-Tool](https://github.com/yangco-le/Colorization_Tool_on_Web)
 * [2021 - JTrace](https://github.com/Rainy-Imola/backend)
+* [2022 - SimplePaperLib](https://github.com/FengweiZhang/SimplePaperLib)
 
 &nbsp;
 
@@ -245,4 +247,5 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 > IS415 - 系统软件课程设计
 
 * [2020 - FileVaultSJTU](https://github.com/YangLeiSX/FileVaultSJTU)
+* [2022 - 基于系统调用重载的程序运行权限管理](https://github.com/FengweiZhang/SystemDesign-IS415-dev)
 
