@@ -117,6 +117,7 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 * [2017 - LexicalAnalysis](https://github.com/somecat1996/LexicalAnalysis)
 * [2018 - Lexer](https://github.com/LuminousXLB/Homework_IS/tree/cp)
 * [2020 - Seal Compiler](https://github.com/chenhs1641/SJTU-IS203)
+* [2022 - Tiny Compiler](https://github.com/young1881/TINY_compiler)
 
 &nbsp;
 
