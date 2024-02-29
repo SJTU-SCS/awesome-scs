@@ -22,6 +22,7 @@
 * [Data Mining](#is303)
 * [Data Communication](#is404)
 * [Course Design In System Software](#is415)
+* [Security Development Model and Security Programming](#nis3368)
 ---
 
 <!--* [Principles of Computer Virus](#is217) -->
@@ -249,3 +250,11 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 * [2020 - FileVaultSJTU](https://github.com/YangLeiSX/FileVaultSJTU)
 * [2022 - 基于系统调用重载的程序运行权限管理](https://github.com/FengweiZhang/SystemDesign-IS415-dev)
 
+&nbsp;
+
+<a name="nis3368"> </a>
+
+### Security Development Model and Security Programming
+> NIS3368 - 安全开发模型及安全编程
+
+* [2023 - GNetChat](https://github.com/heatingma/GNetChat)
