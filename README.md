@@ -23,6 +23,8 @@
 * [Data Communication](#is404)
 * [Course Design In System Software](#is415)
 * [Security Development Model and Security Programming](#nis3368)
+* [Introduction to Artificial Intelligence](#nis4307)
+* [Information Security Technology Innovation](#nis3302)
 ---
 
 <!--* [Principles of Computer Virus](#is217) -->
@@ -183,12 +185,13 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 <a name="is206"> </a>
 
 ### Operating System
-> IS206 - 操作系统
+> IS206 - 操作系统 （NIS2334 - 操作系统原理）
 
 * [2018 - ycq091044](https://github.com/ycq091044/Operating-System)
 * [2018 - wangjksjtu](https://github.com/wangjksjtu/IS-Assignments/tree/master/IS206)
 * [2019 - LuminousXLB](https://github.com/LuminousXLB/Lab_OS)
 * [2022 - EulerOS](https://github.com/true-zk/EulerOS_analysis)
+* [2023 - OpenEuler-Process-Scheduling](https://github.com/heatingma/OpenEuler-Process-Scheduling)
 
 &nbsp;
 
@@ -265,3 +268,22 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 > NIS3368 - 安全开发模型及安全编程
 
 * [2023 - GNetChat](https://github.com/heatingma/GNetChat)
+
+&nbsp;
+
+<a name="nis4307"> </a>
+
+### Introduction to Artificial Intelligence
+> NIS4307 - 人工智能导论
+
+* [2023 - MNIST GENERATE](https://github.com/heatingma/MNIST_GENERATE)
+
+&nbsp;
+
+<a name="nis3302"> </a>
+
+### Information Security Technology Innovation
+> NIS3302 - 信息安全科技创新
+
+* [2023 - okftools](https://github.com/heatingma/NIS3302-okftools)
+
